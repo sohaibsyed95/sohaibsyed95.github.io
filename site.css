@@ -10,3 +10,7 @@ root {
   text-align: center;
 }
 
+.cognito {
+    width : 800px;
+    margin:0 auto;
+}
